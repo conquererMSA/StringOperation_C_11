@@ -1,5 +1,3 @@
-/ printf("%s %s",a,b);
-    // for(int i=0; i<strlen(b); i++){
-    //     a[i]=b[i];
+// for(int i=0; i<=strlen(w); i++){
+    //     printf("%d-%d",i,countArr[i]);
     // }
-    // printf("%s %s",a,b);

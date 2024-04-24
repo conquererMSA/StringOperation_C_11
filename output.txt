@@ -1,1 +1,5 @@
-A-abcdefgh
+a - 2
+b - 1
+c - 2
+e - 1
+f - 1
