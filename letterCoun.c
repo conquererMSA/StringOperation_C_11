@@ -11,6 +11,7 @@ int main(){
         int value=s[i]-97;//a=97-97=0 b=98-97=1
         cnt[value]++;//0++ /1++ ...26++
     }
+    //check value
     // for(int i=0; i<strlen(s);i++){
     //     printf("%d-%d\n",i,cnt[i]);
     // }
