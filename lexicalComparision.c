@@ -3,7 +3,7 @@
 #include<string.h>
 int main(){
     char a[100], b[100];
-    scanf("%s %s",&a,&b);
+    scanf("%s %s",a,b);
     int i=0;
     while(1){
         //null checking
@@ -24,7 +24,8 @@ int main(){
         }else if(a[i]>b[i]){
             printf("B is smaller");
             break;
-        }else{
+        }
+        else{
             printf("A is smaller");
             break;
         }
